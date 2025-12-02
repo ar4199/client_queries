@@ -16,13 +16,14 @@ The system supports:
 ✅ MySQL Database Storage
 
 🚀 Features
+
 👤 User Accounts
 
-Register as Client or Support
-
-Passwords are securely hashed (SHA-256)
-
-Login session persists using Streamlit Session Sta₹te
+    *Register as Client or Support
+      
+    *Passwords are securely hashed (SHA-256)
+      
+    *Login session persists using Streamlit Session State
 
 📝 Client Portal
 
